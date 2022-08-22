@@ -1,1 +1,1 @@
-# LinearRegression_from_scratch
+# LinearRegression From Scratch
